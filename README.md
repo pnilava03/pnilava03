@@ -54,7 +54,7 @@ Repository: `API_AutomationFramework`
 REST Assured-based API automation framework with reusable components and CI/CD-ready structure.
 
 ### 5. Mobile Automation
-Repository: `MobileAutomation`
+Repository: `BaselineAPP`
 
 Mobile automation practice using Appium for Android/iOS application testing.
 
