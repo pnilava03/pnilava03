@@ -34,27 +34,27 @@ I help product teams improve software quality, reduce release risk, increase aut
 ## 📌 Featured Projects
 
 ### 1. Manual Testing Portfolio
-Repository: `ManualTesting`
+Repository: `[ManualTesting](https://github.com/pnilava03/ManualTesting)`
 
 Includes sample test cases, bug reports, QA status reports, UAT checklist, test summary report, and test strategy documentation.
 
 ### 2. UI + API Automation Framework
-Repository: `AutomationUIAndAPI`
+Repository: `[AutomationUIAndAPI](https://github.com/pnilava03/AutomationUIAndAPI)`
 
 Hybrid automation framework using Selenium Java, REST Assured, TestNG, Maven, Jenkins, GitHub Actions, and Page Object Model.
 
 ### 3. AAA Life SDET Automation Framework
-Repository: `AAALifeSDETAutomationFramework`
+Repository: `[AAALifeSDETAutomationFramework](https://github.com/pnilava03/AAALifeSDETAutomationFramework)`
 
 SDET-style framework covering UI smoke testing, API automation, JSON schema validation, negative API testing, and reporting.
 
 ### 4. API Automation Framework
-Repository: `API_AutomationFramework`
+Repository: `[API_AutomationFramework](https://github.com/pnilava03/API_AutomationFramework)`
 
 REST Assured-based API automation framework with reusable components and CI/CD-ready structure.
 
 ### 5. Mobile Automation
-Repository: `BaselineAPP`
+Repository: `[BaselineAPP](https://github.com/pnilava03/BaselineAPP)`
 
 Mobile automation practice using Appium for Android/iOS application testing.
 
