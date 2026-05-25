@@ -80,6 +80,11 @@ Java | Selenium WebDriver | TestNG | Cucumber BDD | REST Assured | Postman | Ins
 
 ---
 
-## 📫 Contact
+## 🤝 Let's Connect
 
-- GitHub: [pnilava03](https://github.com/pnilava03)
+I am open to QA, SDET, automation testing, API testing, mobile testing, and release validation opportunities.
+
+If you are looking for someone who can combine manual QA thinking, automation framework design, API validation, CI/CD execution, and clear QA documentation, I’d be happy to help.
+
+I focus on building practical testing solutions that help teams release faster, reduce production risk, and improve overall product quality.
+
