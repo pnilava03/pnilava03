@@ -83,4 +83,3 @@ Java | Selenium WebDriver | TestNG | Cucumber BDD | REST Assured | Postman | Ins
 ## 📫 Contact
 
 - GitHub: [pnilava03](https://github.com/pnilava03)
-- Email: pnilava03@gmail.com
